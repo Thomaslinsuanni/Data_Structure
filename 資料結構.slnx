@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HW1/HW1.vcxproj" />
+  <Project Path="HW2/HW2.vcxproj" />
+  <Project Path="HW3/HW3.vcxproj" />
+  <Project Path="HW4/HW4.vcxproj" />
+  <Project Path="HW5/HW5.vcxproj" />
+  <Project Path="HW6/HW6.vcxproj" />
+  <Project Path="HW7/HW7.vcxproj" />
+</Solution>
