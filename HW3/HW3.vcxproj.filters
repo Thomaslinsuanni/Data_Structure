@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\資料結構_data\HW3\HW3.cpp">
+    <ClCompile Include="HW3.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
   </ItemGroup>

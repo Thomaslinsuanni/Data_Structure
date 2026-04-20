@@ -18,6 +18,18 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="HW6.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="hw6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ArrayBag.h" />
+    <ClInclude Include="BagInterface.h" />
+    <ClInclude Include="LinkedBag.h" />
+    <ClInclude Include="Node.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -126,18 +138,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\資料結構_data\HW6\HW6.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\資料結構_data\HW6\ArrayBag.h" />
-    <ClInclude Include="..\..\資料結構_data\HW6\BagInterface.h" />
-    <ClInclude Include="..\..\資料結構_data\HW6\LinkedBag.h" />
-    <ClInclude Include="..\..\資料結構_data\HW6\Node.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\..\資料結構_data\HW6\hw6.jpg" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

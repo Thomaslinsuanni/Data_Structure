@@ -15,27 +15,27 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\資料結構_data\HW6\HW6.cpp">
+    <ClCompile Include="HW6.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\資料結構_data\HW6\ArrayBag.h">
-      <Filter>標頭檔</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\資料結構_data\HW6\BagInterface.h">
-      <Filter>標頭檔</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\資料結構_data\HW6\LinkedBag.h">
-      <Filter>標頭檔</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\資料結構_data\HW6\Node.h">
-      <Filter>標頭檔</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\..\資料結構_data\HW6\hw6.jpg">
+    <Image Include="hw6.jpg">
       <Filter>資源檔</Filter>
     </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ArrayBag.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="BagInterface.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedBag.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

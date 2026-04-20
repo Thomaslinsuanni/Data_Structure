@@ -15,31 +15,34 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\User\Downloads\HW7\HW7.cpp">
+    <ClCompile Include="HW7.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="Node.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="C:\Users\User\Downloads\HW7\hw7.jpg">
+    <Image Include="hw7.jpg">
       <Filter>資源檔</Filter>
     </Image>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="C:\Users\User\Downloads\HW7\Output.txt">
+    <Text Include="Output.txt">
       <Filter>資源檔</Filter>
     </Text>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\User\Downloads\HW7\ArrayBag.h">
+    <ClInclude Include="ArrayBag.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\User\Downloads\HW7\BagInterface.h">
+    <ClInclude Include="BagInterface.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\User\Downloads\HW7\LinkedBag.h">
+    <ClInclude Include="LinkedBag.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\User\Downloads\HW7\Node.h">
+    <ClInclude Include="Node.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
   </ItemGroup>

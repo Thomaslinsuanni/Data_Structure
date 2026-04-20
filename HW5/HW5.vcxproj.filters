@@ -15,16 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\資料結構_data\HW5\HW4.cpp">
+    <ClCompile Include="HW4.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\資料結構_data\HW5\HW4V1.cpp">
+    <ClCompile Include="HW4V1.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\資料結構_data\HW5\HW5.cpp">
+    <ClCompile Include="HW5.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\資料結構_data\HW5\HW5V0.cpp">
+    <ClCompile Include="HW5V0.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
   </ItemGroup>

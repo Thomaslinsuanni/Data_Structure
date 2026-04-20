@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\資料結構_data\HW2\HW2.cpp">
+    <ClCompile Include="HW2.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
   </ItemGroup>

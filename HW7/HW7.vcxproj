@@ -18,6 +18,22 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="HW7.cpp" />
+    <ClCompile Include="Node.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="hw7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Output.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ArrayBag.h" />
+    <ClInclude Include="BagInterface.h" />
+    <ClInclude Include="LinkedBag.h" />
+    <ClInclude Include="Node.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -126,21 +142,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="C:\Users\User\Downloads\HW7\HW7.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="C:\Users\User\Downloads\HW7\hw7.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="C:\Users\User\Downloads\HW7\Output.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="C:\Users\User\Downloads\HW7\ArrayBag.h" />
-    <ClInclude Include="C:\Users\User\Downloads\HW7\BagInterface.h" />
-    <ClInclude Include="C:\Users\User\Downloads\HW7\LinkedBag.h" />
-    <ClInclude Include="C:\Users\User\Downloads\HW7\Node.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
